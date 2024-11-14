@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[tbl_brand]
+(
+	[ID] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Brand] VARCHAR(MAX) NULL
+)

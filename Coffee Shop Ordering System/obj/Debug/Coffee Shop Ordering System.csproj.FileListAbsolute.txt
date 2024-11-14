@@ -1,0 +1,192 @@
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.frmRegister.resources
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.frmLogin.resources
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.dashboardCustomer.resources
+C:\Users\Nica\source\repos\Coffee Shop Ordering System\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.frmCustomerOrder.resources
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nica\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+D:\Downloads\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+D:\Documents\Coffee Shop Ordering SystemV3\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+D:\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+C:\Users\dennis\Downloads\Coffee Shop Ordering SystemV4\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV5\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+D:\Downloads\Coffee Shop Ordering SystemV5.2\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+C:\Users\ADMIN\source\repos\Coffee Shop Ordering SystemV6\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+D:\Downloads\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe.config
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.exe
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\Coffee Shop Ordering System.pdb
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\MetroFramework.Design.dll
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\MetroFramework.dll
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\MetroFramework.Fonts.dll
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\CafeManagement.pdb
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\bin\Debug\CafeManagement.exe.config
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.AssemblyReference.cache
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee_Shop_Ordering_System.Properties.Resources.resources
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.GenerateResource.cache
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CoreCompileInputs.cache
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.csproj.CopyComplete
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.exe
+D:\Desktop\Coffee Shop Ordering SystemV6.1\Coffee Shop Ordering System\obj\Debug\Coffee Shop Ordering System.pdb

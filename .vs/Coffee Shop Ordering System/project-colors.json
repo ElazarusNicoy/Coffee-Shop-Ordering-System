@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae26a89a-10e4-494a-affa-7643000eaa14": {
+      "ProjectGuid": "ae26a89a-10e4-494a-affa-7643000eaa14",
+      "DisplayName": "Coffee Shop Ordering System",
+      "ColorIndex": 0
+    },
+    "eeb6c12a-7a60-4910-8d92-0ff0e3a17d9a": {
+      "ProjectGuid": "eeb6c12a-7a60-4910-8d92-0ff0e3a17d9a",
+      "DisplayName": "CafeManagement",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

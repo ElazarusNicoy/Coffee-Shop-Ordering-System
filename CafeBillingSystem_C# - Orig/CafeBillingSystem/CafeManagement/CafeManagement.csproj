@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EEB6C12A-7A60-4910-8D92-0FF0E3A17D9A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CafeManagement</RootNamespace>
+    <AssemblyName>CafeManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cafe.cs" />
+    <Compile Include="chkLatte\BackColor.cs" />
+    <Compile Include="DBConnection.cs" />
+    <Compile Include="frmBrandModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrandModule.Designer.cs">
+      <DependentUpon>frmBrandModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrowseProductList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrowseProductList.Designer.cs">
+      <DependentUpon>frmBrowseProductList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategoryModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategoryModule.Designer.cs">
+      <DependentUpon>frmCategoryModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaff.Designer.cs">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInventory.Designer.cs">
+      <DependentUpon>frmInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageBrand.Designer.cs">
+      <DependentUpon>frmManageBrand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageCategory.Designer.cs">
+      <DependentUpon>frmManageCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageProduct.Designer.cs">
+      <DependentUpon>frmManageProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProcessingOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProcessingOrder.Designer.cs">
+      <DependentUpon>frmProcessingOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductModule.Designer.cs">
+      <DependentUpon>frmProductModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRequest.Designer.cs">
+      <DependentUpon>frmRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStockEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStockEntry.Designer.cs">
+      <DependentUpon>frmStockEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserAcct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserAcct.Designer.cs">
+      <DependentUpon>frmUserAcct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserTabAuthe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserTabAuthe.Designer.cs">
+      <DependentUpon>frmUserTabAuthe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWelcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWelcome.Designer.cs">
+      <DependentUpon>frmWelcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ito.cs" />
+    <Compile Include="MetroFramework\Controls.cs" />
+    <Compile Include="OrderingSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderingSystem.Designer.cs">
+      <DependentUpon>OrderingSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBrandModule.resx">
+      <DependentUpon>frmBrandModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrowseProductList.resx">
+      <DependentUpon>frmBrowseProductList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategoryModule.resx">
+      <DependentUpon>frmCategoryModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaff.resx">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInventory.resx">
+      <DependentUpon>frmInventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageBrand.resx">
+      <DependentUpon>frmManageBrand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageCategory.resx">
+      <DependentUpon>frmManageCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageProduct.resx">
+      <DependentUpon>frmManageProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProcessingOrder.resx">
+      <DependentUpon>frmProcessingOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductModule.resx">
+      <DependentUpon>frmProductModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRequest.resx">
+      <DependentUpon>frmRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStockEntry.resx">
+      <DependentUpon>frmStockEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserAcct.resx">
+      <DependentUpon>frmUserAcct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserTabAuthe.resx">
+      <DependentUpon>frmUserTabAuthe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWelcome.resx">
+      <DependentUpon>frmWelcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderingSystem.resx">
+      <DependentUpon>OrderingSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
